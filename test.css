@@ -1,4 +1,4 @@
-.test-external {
+.test-external-{{ section.id }} {
 font-size: 50px;
 margin: auto;
 text-align: center;
